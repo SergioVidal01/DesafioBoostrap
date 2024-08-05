@@ -2,8 +2,8 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f5f5f5;
-    color: #333;
+   
+   
 }
 
 /* Header */
@@ -16,7 +16,7 @@ body {
 /* Hero Section */
 .hero {
     padding: 3rem 0;
-    background-color: #e0f7fa;
+   
 }
 
 .hero__image img {
@@ -42,15 +42,15 @@ body {
 
 .hero__subtitle {
     font-size: 1.5rem;
-    color: #00796b;
+    color: #1c1f50;
 }
 
 .hero__description {
     margin: 1.5rem 0;
 }
 
-.hero .btn {
-    background-color: #00796b;
+ .btn {
+    background-color: #1c1f50;
     border: none;
 }
 
@@ -110,7 +110,7 @@ body {
 }
 
 .contact .btn {
-    background-color: #00796b;
+    background-color: #1c1f50;
     border: none;
 }
 
